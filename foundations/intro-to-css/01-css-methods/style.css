@@ -8,3 +8,8 @@ button{
     background-color: orange;
     font-size: x-small;
 }
+p{
+    background-color: green;
+    color: white;
+    font-size: x-small;
+}
